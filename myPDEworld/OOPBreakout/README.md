@@ -1,9 +1,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/KutuDev/Suacode-APDE-world/tree/master/myPDEworld/OOPBreakout">
-    <img src="breakout.gif" alt="Logo" width="740" height="1080">
+    <img src="breakout.gif" alt="Logo" width="740" height="800">
   </a
 
+<br />
 ## Inspiration
 
 Creative coding has been a tested and trusted way to learn to code as a beginner. Specifically, creating a game app for smartphones is a fantastic starting point for practising software development. Hence, I created a fairly complex game called *Breakout* using a Java-based programming language by the name *Processing*. This game is the required SuaCode Africa 1.0 smartphone-based coding course final project.
