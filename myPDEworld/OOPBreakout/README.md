@@ -1,8 +1,8 @@
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="breakout.gif" alt="Logo" width="80" height="80">
-  </a>
+  <a href="https://github.com/KutuDev/Suacode-APDE-world/tree/master/myPDEworld/OOPBreakout">
+    <img src="breakout.gif" alt="Logo" width="740" height="1080">
+  </a
 
 ## Inspiration
 
