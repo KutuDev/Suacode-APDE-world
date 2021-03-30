@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/KutuDev/Suacode-APDE-world/tree/master/myPDEworld/OOPBreakout">
-    <img src="breakout.gif" alt="Logo" width="740" height="300">
+    <img src="breakout.gif" alt="Logo" width="740" height="600">
   </a
 
 <br />
